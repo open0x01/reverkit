@@ -3,7 +3,7 @@ package reverkit
 import (
 	"fmt"
 	"github.com/iami317/hubur"
-	ldap "github.com/iami317/reverkit/ldap"
+	ldap "github.com/open0x01/reverkit/ldap"
 	"regexp"
 	"sync"
 )

@@ -1,4 +1,4 @@
-module github.com/iami317/reverkit
+module github.com/open0x01/reverkit
 
 go 1.22
 
